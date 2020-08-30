@@ -1,0 +1,31 @@
+<AssetPackage Name="mercs-merc" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>Pleasant Valley Stolport</Title>
+		<Manufacturer/>
+		<Creator>Mercs-Clan</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\mercs-merc\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\mercs-merc</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="pleasant-valley-stolport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene</AssetDir>
+			<OutputDir>scenery\world\scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

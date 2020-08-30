@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mercs-merc/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 306,
+      "date": 132432833287969688
+    },
+    {
+      "path": "scenery/world/scenery/AIRPORT-MERC-POLY.BGL",
+      "size": 1486,
+      "date": 132432835752597824
+    },
+    {
+      "path": "scenery/world/scenery/airport-merc.bgl",
+      "size": 1005,
+      "date": 132432835752503592
+    }
+  ]
+}

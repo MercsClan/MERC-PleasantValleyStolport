@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: Airport_PlasticBarrier_Type2_6_pack-->
+	<SceneryObject lat="37.61404181873439" lon="-88.72926599265317" alt="0.00000000000000" pitch="0.001516" bank="-0.001516" heading="-87.864482" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{741BAAF5-4BB8-4A87-B898-750B02C99E5D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Garden_Bush_4m-->
+	<SceneryObject lat="37.61348253342484" lon="-88.73185408264473" alt="0.00000000000000" pitch="0.737080" bank="1.443260" heading="152.970460" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CA2EAFD3-D155-4A95-9957-44EB9BC912CC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Garden_Bush_4m-->
+	<SceneryObject lat="37.61351116629734" lon="-88.73153561096038" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CA2EAFD3-D155-4A95-9957-44EB9BC912CC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar112-->
+	<SceneryObject lat="37.61328801278761" lon="-88.73180457272791" alt="0.00000000000000" pitch="-1.620107" bank="-0.003893" heading="-46.802253" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7230150E-B743-470D-8958-6063232FD059}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar116-->
+	<SceneryObject lat="37.61325035069825" lon="-88.73157325816416" alt="0.00000000000000" pitch="0.001393" bank="-0.001393" heading="55.674952" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DD53AB2E-1BE6-4A6B-8788-9F6FCF9DF5A0}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="37.61426295961211" lon="-88.72998459026188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<Airport name="Pleasant Valley Stolport" ident="MERC" lat="37.61429246760606" lon="-88.72976210240849" alt="142.06692377850413" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="37.61408656780615" lon="-88.73011125793776" alt="142.06103020254523" heading="90.61875915527344" length="146.68147277832031" width="12.89333343505859" patternAltitude="304.79998779296875" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="FALSE" number="09" designator="NONE" primaryLanding="TRUE" primaryTakeoff="FALSE" primaryPattern="LEFT" secondaryLanding="FALSE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="TRUE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="LOW" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="37.61409336700433" lon="-88.73090303832117" alt="142.06153591126804" heading="90.61875915527344"/>
+			<RunwayStart end="SECONDARY" lat="37.61407976324182" lon="-88.72931947761059" alt="142.06051661410038" heading="-89.38121032714844"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

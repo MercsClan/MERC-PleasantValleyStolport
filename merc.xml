@@ -1,0 +1,8 @@
+<Project Version="2" Name="merc" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mercs-merc.xml</Package>
+	</Packages>
+</Project>
+
